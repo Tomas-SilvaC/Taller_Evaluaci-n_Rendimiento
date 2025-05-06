@@ -10,4 +10,5 @@ Es necesario asegurarse que los ejecutables tengan el mismo nombre a los propues
   - OpenMP: MMOpenMP
   - Fork: MMFork
   - Posix: MMPosix
+
 Tras tener los ejecutables ejecutar el programa "lanza.pl", el cual se encargara de generar las ejecuciónes y guardar los datos correspondientes
