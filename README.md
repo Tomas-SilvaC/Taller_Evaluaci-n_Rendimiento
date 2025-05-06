@@ -4,7 +4,8 @@ El objetivo de este taller es comparar la ejecución de un algoritmo en serie y 
 
 # Para su respectiva ejecución
 Descargar la carpeta programas, y en un entorno de ejecución generar archivos ejecutables usando el comando: 
-    gcc programas_a_compilar_incluyendo_librerias.c -o nombre_ejecutable
+    
+    "gcc programas_a_compilar_incluyendo_librerias.c -o nombre_ejecutable"
 (Cabe mencionar que la creación del ejecutable de OpenMP necesita la linea "-fopenmp" al final del comando)
 Es necesario asegurarse que los ejecutables tengan el mismo nombre a los propuestos en el archivo "lanza.pl" siendo estos los siguientes:
   - OpenMP: MMOpenMP
